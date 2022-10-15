@@ -1,6 +1,3 @@
-.heading {
-  font-family: 'Bangers', cursive;
-}
 
 
 .navbar {
@@ -8,4 +5,12 @@
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+.heading {
+  font-family: 'Bangers', cursive;
+}
+
+ {
+  font-family: 'Mr Dafoe', cursive;
 }
