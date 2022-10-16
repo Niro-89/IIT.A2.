@@ -5,7 +5,7 @@
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav {
   float: center;
   color: #EBEBEB;
   text-align: center;
