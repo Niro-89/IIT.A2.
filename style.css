@@ -1,17 +1,79 @@
 
+  .topnav {
+    background-color: #CAD2C5;
+    overflow: hidden;
+  }
 
-.heading {
-  font-family: 'Bangers', cursive;
-}
+  .topnav a {
+    color: #EBEBEB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
 
-.table {
-  font-family: 'Acme', sans-serif;
-}
+  .topnav a:hover {
+    background-color: #84A98C;
+    color: black;
+  }
 
-.topnav {
-  font-family: 'Sedgwick Ave', cursive;
-}
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #65DEF1;
+    color: white;
+  }
 
-.navbar {
-  font-family: 'Sedgwick Ave', cursive;
-}
+
+
+
+  
+  .navbar {
+    background-color: #333;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .navbar {
+    background-color: #CAD2C5;
+    overflow: hidden;
+    bottom: 0;
+     width: 100%;
+  }
+
+  .navbar a {
+    color: #EBEBEB;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar a:hover {
+    background-color: #84A98C;
+    color: black;
+  }
+
+  /* Add a color to the active/current link */
+  .navbar a.active {
+    background-color: #65DEF1;
+    color: white;
+  }
+
+
+
+
+  .heading {
+    font-family: 'Bangers', cursive;
+  }
+
+  .table {
+    font-family: 'Acme', sans-serif;
+  }
+
+  .topnav {
+    font-family: 'Sedgwick Ave', cursive;
+  }
+
+  .navbar {
+    font-family: 'Sedgwick Ave', cursive;
