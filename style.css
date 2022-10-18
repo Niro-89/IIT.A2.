@@ -77,3 +77,8 @@
 
   .navbar {
     font-family: 'Sedgwick Ave', cursive;
+.content p{
+  font-size: 1em;
+  font-family: 'Lato', helvetica, arial, sans-serif;
+  padding: 30px ;
+}
